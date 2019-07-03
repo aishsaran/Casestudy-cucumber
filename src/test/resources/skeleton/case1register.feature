@@ -1,7 +1,7 @@
 Feature: TestmeApp registration
 Scenario: Registeration for the test me app
 Given user is on signup page
-When user enters username as "aishusaran"
+When user enters username as "aishuappu"
 When user enters firstname as "aishwarya"
 When user enters lastname as "saravanan"
 When user enters password as "harrypotter"
