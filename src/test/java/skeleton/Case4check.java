@@ -54,7 +54,7 @@ public class Case4check {
 	{
 	    if(driver.getTitle().equals("view cart"))
 	    {
-	    	Assert.assertFalse(false);
+	    	Assert.assertFalse(true);
 	    }
 	    else
 	    {
