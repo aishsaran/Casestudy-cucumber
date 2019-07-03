@@ -9,7 +9,7 @@ Then verify login successful
 
 Examples:
 |un||pass|
-|lalitha| |password123|      
+|AlexUser||Alex@123|      
 |aishsaran||aishusaran|
 |aishusaran||harrypotter|
 
